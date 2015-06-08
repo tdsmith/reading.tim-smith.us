@@ -1,0 +1,14 @@
+# Site settings
+title: Tim Read This
+description: > # this means to ignore newlines until "baseurl:"
+  A brief annotated bibliography of papers I read, in case you find them
+  interesting, as well.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://reading.tim-smith.us" # the base hostname & protocol for your site
+twitter_username: biotimylated
+github_username: tdsmith
+
+# Build settings
+markdown: kramdown
+
+host: 127.0.0.1
